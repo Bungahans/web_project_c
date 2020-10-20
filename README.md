@@ -1,2 +1,2 @@
-# web_project_c
+# belajar prak
 Repository for web project c
